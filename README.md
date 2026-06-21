@@ -3,7 +3,7 @@
 > 保留有用默认样式，修复浏览器不一致性，使各浏览器表现更接近。
 
 基于 Eric Meyer's [reset.css](https://meyerweb.com/eric/tools/css/reset/) 改进，适配现代 HTML5 元素。
-提供 css/sass/less 三种格式，兼容 PostCSS、webpack、Vite 等主流工具链。
+提供 css/sass/less 三种格式，兼容 PostCSS/webpack/Vite 等主流工具链。
 
 ## 安装
 
