@@ -1,0 +1,35 @@
+{
+  "name": "unify-css",
+  "version": "1.0.0",
+  "description": "CSS 初始化/统一样式表 — 保留有用默认样式，修复浏览器不一致性，使各浏览器表现更接近。基于 Eric Meyer's reset.css 改进，适配现代 HTML5 元素",
+  "main": "reset.css",
+  "style": "reset.css",
+  "sass": "sass/reset.scss",
+  "exports": {
+    ".": "./reset.css",
+    "./sass": "./sass/reset.scss",
+    "./less": "./less/reset.less"
+  },
+  "files": [
+    "reset.css",
+    "sass",
+    "less"
+  ],
+  "keywords": [
+    "reset.css",
+    "meyer-reset",
+    "unify-css",
+    "sass",
+    "less"
+  ],
+  "author": "newborn_calf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Libao-Jun/unify-css.git"
+  },
+  "homepage": "https://github.com/Libao-Jun/unify-css#readme",
+  "bugs": {
+    "url": "https://github.com/Libao-Jun/unify-css/issues"
+  }
+}

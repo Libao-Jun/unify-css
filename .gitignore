@@ -1,0 +1,19 @@
+# 依赖
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+
+# Claude 工作目录
+.claude/
+
+# npm config
+.npmrc
